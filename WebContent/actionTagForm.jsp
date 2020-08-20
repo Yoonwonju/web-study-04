@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="actionTagTest.jsp">
+<form action="ActionTagServlet">
 아이디 :		 <input type = "text" name = "userID"><br>
 암&nbsp;호 : <input type = "password" name = "userPwd"><br>
 <input type = "radio" name = "loginCheck" value = "user" checked = "checked"> 사용자
